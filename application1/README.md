@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # References : 
 1. https://m3.material.io/
 2. https://www.youtube.com/watch?v=0cZT2pSi_GQ&list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BAOku&index=3&ab_channel=Codemy.com
+3. https://www.appicon.co/
