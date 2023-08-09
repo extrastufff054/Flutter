@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
 
-    runApp(MyWidget());
+    runApp(const MyWidget());
 }
 
 class MyWidget extends StatelessWidget 
@@ -35,7 +35,7 @@ class MyWidget extends StatelessWidget
               // ),
               Container
               (
-                color : Color.fromARGB(235, 41, 154, 247),
+                color : const Color.fromARGB(235, 41, 154, 247),
                 width : 100.0,
                 height: 150.0,
                 padding : const EdgeInsets.all(10.0),
@@ -53,7 +53,7 @@ class MyWidget extends StatelessWidget
               ),
               Container
               (
-                color : Color.fromARGB(235, 83, 187, 235),
+                color : const Color.fromARGB(235, 83, 187, 235),
                 width : 100.0,
                 height: 150.0,
                 padding : const EdgeInsets.all(10.0),
@@ -71,7 +71,7 @@ class MyWidget extends StatelessWidget
               ),
               Container
               (
-                color : Color.fromARGB(199, 65, 198, 231),
+                color : const Color.fromARGB(199, 65, 198, 231),
                 width : 100.0,
                 height: 150.0,
                 padding : const EdgeInsets.all(10.0),
