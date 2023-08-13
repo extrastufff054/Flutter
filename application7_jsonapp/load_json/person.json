@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "Sachin",
+        "age" : 40,
+        "country" : "India",
+        "gender" : "male",
+        "hobbies" : ["Cricket", "Football", "Tennis"]
+    },
+
+    {
+        "name" : "Dhoni",
+        "age" : 50,
+        "country" : "India",
+        "gender" : "male",
+        "hobbies" : ["Cricket", "Football", "Tennis"]
+    },
+
+    {
+        "name" : "Virat",
+        "age" : 35,
+        "country" : "India",
+        "gender" : "male",
+        "hobbies" : ["Cricket", "Football", "Tennis"]
+    },
+
+    {
+        "name" : "Ronaldo",
+        "age" : 38,
+        "country" : "Portugal",
+        "gender" : "male",
+        "hobbies" : ["Cricket", "Football", "Tennis"]
+    }
+]
